@@ -328,3 +328,5 @@
 * <a href="https://github.com/gptbmw/netflix-hezu">奈飞Netflix合租</a> ：追剧党福利！本文将全面深入解析2025年如何拼车购买Netflix账号，包括合租奈飞账号的优势、靠谱的奈飞合租平台推荐、合租奈飞的注意事项，帮助大家在享受Netflix高清流媒体服务的同时安全合规使用，低成本高效率的观看4K影像。
 
 * <a href="https://github.com/gptbmw/wildcard">野卡wildcard虚拟信用卡</a> ：此文中详细深入的介绍了wildcard野卡虚拟信用卡的开通方法、特点和优势以及日常使用中的注意事项和管理方法，帮助你快速顺利的开通一张野卡虚拟信用卡，操作简单，无需身份证，可使用支付宝轻松订阅海外服务和购物。
+
+* <a href="https://github.com/gptbmw/chatgpt-4o">2025最新ChatGPT-4o生图指南</a> ：文章中详细介绍了什么是chatgpt-4o、它的优势和核心功能，以及如何获得和使用chatgpt-4o图像生成的强大功能，还解答了大家比较关心的生图比较慢、GPT-4o与GPT-4有什么区别等问题。
