@@ -47,7 +47,7 @@
 
 合租虽好，但选择一个靠谱的平台很重要，毕竟我们都不想刚付完钱，平台就人间蒸发了，对吧？接下来，我们就来看看银河录像局这个备受瞩目的综合型合租平台到底怎么样！
 
-点击查看更多：<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus订阅</a>、<a href="https://github.com/gptbmw/claude-pro">Claude Pro订阅</a>、<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/gptbmw/netflix-hezu">奈飞合租</a>、野卡信用卡。
+点击查看更多：<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus订阅</a>、<a href="https://github.com/gptbmw/claude-pro">Claude Pro订阅</a>、<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/gptbmw/netflix-hezu">奈飞合租</a>。
 
 ## 银河录像局的简介
 
