@@ -1,6 +1,31 @@
 # 银河录像局：国内领先的流媒体和AI工具合租平台！提供Netflix/ChatGPT/Spotify等合租服务！
 
-<p align="center">文章更新于：2025年5月2日</p >
+<p align="center">文章更新于：2025年7月19日</p >
+
+## 重要提示：
+
+由于某些原因，WildCard野卡已于2025年7月12日被迫停止服务。如果你之前已经开通了WildCard野卡，并且卡内仍有余额，请尽快将余额使用完毕。如果你之前没有开通过WildCard野卡，那么今后将无法再使用WildCard野卡订阅任何海外服务。
+
+今后，如果你想使用ChatGPT、Claude、Midjourney、Grok、Poe等海外AI工具，目前仅能选择合租（镜像站）或代充值这两种方式了。
+
+### AI工具合租和和代充值平台首选：<a href="https://nf.video/Sy195">银河录像局</a>
+
+银河录像局是一家专业、合法合规（在监管部门有备案）的大型平台，安全稳定，价格实惠，大家可以放心使用。
+
+银河录像局目前提供的服务包括：
+
+* ChatGPT Plus合租、ChatGPT Plus代充值、ChatGPT Plus原生独立帐号
+* Claude Pro合租、Claude Pro原生独立帐号
+* Midjourney合租、Midjourney原生独立帐号
+* SuporGrok合租、SuporGrok原生独立帐号
+
+此外，银河录像局还提供24小时在线客服，所有服务均有完善的售后支持！
+
+* 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
+
+**注意**：通过银河录像局合租AI工具或代充值时，**使用优惠码“GPTBMW”可享受九折优惠**！
+
+****
 
 各位数字时代的冲浪选手们！是不是经常被这样的问题困扰：想看Netflix上的热门剧集、听Spotify的全球音乐，还想尝试ChatGPT和Midjourney这些炫酷的AI工具，但看到那一个个的订阅费用就头大了？这些服务确实好用，但官方价格是真的不便宜，全都买下来怕是要吃土啊！
 
@@ -14,7 +39,7 @@
 
 在数字服务领域，“合租”是一种资源共享模式，就是让多位用户一起分担一个正式账户的费用和使用权，大家平分订阅费用，每个人又都能享受到完整或者接近完整的服务体验。比如一个Netflix高级账号原价55元/月，可以支持4个人同时观看，如果四个人一起合租，每人只需花约14元就能享受原汁原味的Netflix服务，是不是很划算？
 
-这种方式不仅大幅降低了订阅成本，还帮我们解决了不少实际问题。很多小伙伴可能没有科学上网工具、没有<a href="https://github.com/gptbmw/wildcard">海外信用卡</a>，或者对那些复杂的英文注册流程感到头疼，这些都可能让我们被这些优质服务"拒之门外"。而通过合租平台，这些障碍都被移除了，让更多人能够以超低的价格畅享完整服务。
+这种方式不仅大幅降低了订阅成本，还帮我们解决了不少实际问题。很多小伙伴可能没有科学上网工具、没有海外信用卡，或者对那些复杂的英文注册流程感到头疼，这些都可能让我们被这些优质服务"拒之门外"。而通过合租平台，这些障碍都被移除了，让更多人能够以超低的价格畅享完整服务。
 
 合租平台就像是一个中间人，它帮你找到其他有相同需求的用户，然后大家一起"搭伙过日子"。这些平台会负责账号的购买、维护和用户之间的协调工作，确保每个用户都能获得稳定的服务体验。当然，不同的合租平台提供的服务类型、安全保障和用户体验也各不相同。
 
@@ -22,7 +47,7 @@
 
 合租虽好，但选择一个靠谱的平台很重要，毕竟我们都不想刚付完钱，平台就人间蒸发了，对吧？接下来，我们就来看看银河录像局这个备受瞩目的综合型合租平台到底怎么样！
 
-点击查看更多：<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus订阅</a>、<a href="https://github.com/gptbmw/claude-pro">Claude Pro订阅</a>、<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/gptbmw/netflix-hezu">奈飞合租</a>、<a href="https://github.com/gptbmw/wildcard">野卡信用卡</a>。
+点击查看更多：<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus订阅</a>、<a href="https://github.com/gptbmw/claude-pro">Claude Pro订阅</a>、<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/gptbmw/netflix-hezu">奈飞合租</a>、野卡信用卡。
 
 ## 银河录像局的简介
 
@@ -325,14 +350,16 @@
 
 # 其他文章：
 
-* <a href="https://github.com/gptbmw/gptbmw.github.io">升级订阅ChatGPT Plus会员教程</a> ：本文详细讲解了如何注册个人独立ChatGPT账号，以及如何使用国内支付方式升级订阅ChatGPT Plus会员。同时文章中还重点介绍了如何开通申请野卡虚拟信用卡、如何管理自己的WildCard卡片，轻松开启您的ChatGPT之旅，从中获得无限可能。
+<a href="https://github.com/gptbmw/wildcard">WildCard野卡虚拟信用卡</a> ：此文中详细深入的介绍了WildCard野卡虚拟信用卡的开通方法、特点和优势以及日常使用中的注意事项和管理方法，帮助你快速顺利的开通一张野卡虚拟信用卡，操作简单，无需身份证，可使用支付宝轻松订阅海外服务和购物。
 
-* <a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus拼车合租</a> ：文章详细介绍了如何安全高效地合租拼车ChatGPT Plus账号以及流媒体和AI工具合租平台推荐，分析合租拼车的优势和潜在风险，并提供最佳的使用技巧和注意事项，帮助大家低成本享受高性价比的ChatGPT Plus订阅体验。
+<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus订阅教程</a> ：本文将详细讲解如何注册ChatGPT账号？中国大陆用户如何使用WildCard虚拟信用卡充值购买ChatGPT Plus账号？
 
-* <a href="https://github.com/gptbmw/claude-pro">Claude Pro升级订阅</a> ：此文中手把手教会大家在国内如何注册Claude账号并升级订阅Claude Pro会员， 以及Claude账号防封建议，如何取消Claude Pro订阅、以及WildCard虚拟信用卡中的余额怎么提现等大家比较关心的问题。
+<a href="https://github.com/gptbmw/claude-pro">Claude Pro订阅教程</a>：手把手教会大家在国内如何注册Claude账号并升级订阅Claude Pro会员， 以及Claude账号防封建议，如何取消Claude Pro订阅等大家比较关心的问题。
 
-* <a href="https://github.com/gptbmw/netflix-hezu">奈飞Netflix合租</a> ：追剧党福利！本文将全面深入解析2025年如何拼车购买Netflix账号，包括合租奈飞账号的优势、靠谱的奈飞合租平台推荐、合租奈飞的注意事项，帮助大家在享受Netflix高清流媒体服务的同时安全合规使用，低成本高效率的观看4K影像。
+<a href="https://github.com/gptbmw/Midjourney">Midjourney订阅教程</a>：本文将详细介绍国内用户开通Midjourney会员的三种方式：自己动手订阅Midjourney会员、寻找可靠的Midjourney代充值服务、通过靠谱平台合租Midjourney会员。
 
-* <a href="https://github.com/gptbmw/wildcard">野卡wildcard虚拟信用卡</a> ：此文中详细深入的介绍了wildcard野卡虚拟信用卡的开通方法、特点和优势以及日常使用中的注意事项和管理方法，帮助你快速顺利的开通一张野卡虚拟信用卡，操作简单，无需身份证，可使用支付宝轻松订阅海外服务和购物。
+<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus合租</a>：本文详细介绍了如何安全高效地拼车合租ChatGPT Plus账号，分析了合租拼车的优势与潜在风险，并提供了最佳的使用技巧和注意事项，帮助大家以低成本享受高性价比的ChatGPT Plus体验。
 
-* <a href="https://github.com/gptbmw/chatgpt-4o">2025最新ChatGPT-4o生图指南</a> ：文章中详细介绍了什么是chatgpt-4o、它的优势和核心功能，以及如何获得和使用chatgpt-4o图像生成的强大功能，还解答了大家比较关心的生图比较慢、GPT-4o与GPT-4有什么区别等问题。
+<a href="https://github.com/gptbmw/netflix-hezu">奈飞Netflix合租</a> ：追剧党福利！本文将全面深入解析2025年如何拼车购买Netflix账号，包括合租奈飞账号的优势、靠谱的奈飞合租平台推荐、合租奈飞的注意事项，帮助大家在享受Netflix高清流媒体服务的同时安全合规使用，低成本高效率的观看4K影像。
+
+<a href="https://github.com/gptbmw/chatgpt-4o">GPT-4o生图指南</a> ：文章详细介绍了什么是ChatGPT-4o，它的优势和核心功能，以及如何获取和使用ChatGPT-4o强大的图像生成功能。同时，还解答了大家关心的生成图片速度较慢、GPT-4o与GPT-4有何区别等常见问题。
