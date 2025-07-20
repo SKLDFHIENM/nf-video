@@ -2,31 +2,6 @@
 
 <p align="center">文章更新于：2025年7月19日</p >
 
-## 重要提示：
-
-由于某些原因，WildCard野卡已于2025年7月12日被迫停止服务。如果你之前已经开通了WildCard野卡，并且卡内仍有余额，请尽快将余额使用完毕。如果你之前没有开通过WildCard野卡，那么今后将无法再使用WildCard野卡订阅任何海外服务。
-
-今后，如果你想使用ChatGPT、Claude、Midjourney、Grok、Poe等海外AI工具，目前仅能选择合租（镜像站）或代充值这两种方式了。
-
-### AI工具合租和和代充值平台首选：<a href="https://nf.video/Sy195">银河录像局</a>
-
-银河录像局是一家专业、合法合规（在监管部门有备案）的大型平台，安全稳定，价格实惠，大家可以放心使用。
-
-银河录像局目前提供的服务包括：
-
-* ChatGPT Plus合租、ChatGPT Plus代充值、ChatGPT Plus原生独立帐号
-* Claude Pro合租、Claude Pro原生独立帐号
-* Midjourney合租、Midjourney原生独立帐号
-* SuporGrok合租、SuporGrok原生独立帐号
-
-此外，银河录像局还提供24小时在线客服，所有服务均有完善的售后支持！
-
-* 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
-
-**注意**：通过银河录像局合租AI工具或代充值时，**使用优惠码“GPTBMW”可享受九折优惠**！
-
-****
-
 各位数字时代的冲浪选手们！是不是经常被这样的问题困扰：想看Netflix上的热门剧集、听Spotify的全球音乐，还想尝试ChatGPT和Midjourney这些炫酷的AI工具，但看到那一个个的订阅费用就头大了？这些服务确实好用，但官方价格是真的不便宜，全都买下来怕是要吃土啊！
 
 所以，很多小伙伴（包括我自己）都在寻找一个既靠谱又不贵的合租平台，能和其他人一起分摊这些订阅费用。好消息是，<a href="https://nf.video/Sy195">银河录像局</a>这个平台刚好帮我们解决了这个痛点！它把各种流媒体和AI工具都集合在一起，让你用很实惠的价格就能体验原本要花大价钱才能享受的服务，ChatGPT Plus订阅、ChatGPT Plus合租、奈飞合租等可点击<a href="https://github.com/gptbmw">GPTBMW</a>进行查看详细操作方法。
